@@ -1,0 +1,5 @@
+*.json
+!sample_client_secret.json
+
+Channels-All-Videos/*
+!Channels-All-Videos/.gitkeep
